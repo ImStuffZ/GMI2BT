@@ -7,7 +7,7 @@ number1 = input()
 print("Enter number 2:")
 number2 = input()
 
-rn(number1, number2)
+print(rn(number1, number2))
 
 print("\nTry to guess which number between 1 and 100 I have chosen.\n")
 
